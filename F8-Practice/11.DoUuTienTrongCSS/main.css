@@ -1,0 +1,13 @@
+*{
+    color: red;
+}
+li {
+    color: black;
+} */
+
+html {
+    color: blue;
+}
+li{
+    color: pink !important;
+}
